@@ -1,0 +1,4 @@
+Hello everyone this file is created in *branch: feature1*
+
+Feature: User enters->Door open
+{........code.........}

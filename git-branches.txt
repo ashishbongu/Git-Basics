@@ -1,2 +1,7 @@
 1. git branches:
 
+
+______________________________________________________________
+Hello folks ( this i'm adding this block in branch: feature1);
+Can only be seen in feature1 branch unless merged....
+______________________________________________________________
